@@ -22,28 +22,22 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Associate Research Engineer
+    company: FootfallCam (Meta Research Sdn. Bhd.)
     company_url: ''
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: Selangor, Malaysia
+    date_start: '2023-07-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        Achievements and responsibilities:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Developed 4 machine learning solutions for production and prototype applications, demonstrating their functionality and real-world potential in customer presentations
+        * Implemented a statistical model for time series forecasting, achieving a 10x reduction in inference time while maintaining forecasting performance with feature engineering
+        * Conducted study and evaluation of diverse machine learning algorithms—statistical, supervised, unsupervised, and AutoML models—for multi-class classification, time series analysis, forecasting, and recommendation systems, focusing on their performance and adaptability in production and prototype applications
+        * Developed algorithms for real-time and batch data processing and integrated them into data pipeline, enhancing system capabilities
+        * Diagnosed and resolved data pipeline issues, improving system reliability and efficiency
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '1'
