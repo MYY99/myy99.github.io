@@ -5,5 +5,5 @@ tags:
   - ai
   - cv
 date: 2022-06-01
-external_link: https://github.com/MYY99/Projects/tree/main/AI%20related/ECE4179%20Project
+external_link: https://github.com/MYY99/Projects/tree/main/AI/ECE4179%20Project
 ---

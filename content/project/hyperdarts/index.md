@@ -5,5 +5,5 @@ tags:
   - ai
   - cv
 date: 2024-04-01
-external_link: https://github.com/MYY99/Projects/tree/main/AI%20related/FYP
+external_link: https://github.com/MYY99/Projects/tree/main/AI/FYP
 ---
