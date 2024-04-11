@@ -40,6 +40,12 @@ content:
       tag: embedded-software
     - name: Solid State Lighting
       tag: solid-state-lighting
+    # - name: Python
+    #   tag: python
+    # - name: Pytorch
+    #   tag: pytorch
+    # - name: C
+    #   tag: c
 
 design:
   columns: '1'

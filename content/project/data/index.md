@@ -1,6 +1,6 @@
 ---
 title: Data Pipeline Development and Maintenance
-summary: Develop and maintain the data pipeline in production for end presentation and data analytics
+summary: Develop and maintain the data pipeline in production for end presentation and business intelligence
 tags:
   - data-pipeline
 date: 2024-04-01
