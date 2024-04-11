@@ -32,6 +32,10 @@ content:
       tag: ai
     - name: Computer Vision
       tag: cv
+    - name: Data Analytics
+      tag: data-analytics
+    - name: Data Pipeline
+      tag: data-pipeline
     - name: Embedded Software
       tag: embedded-software
     - name: Solid State Lighting
