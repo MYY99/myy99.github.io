@@ -4,6 +4,6 @@ summary: Final Year Project submitted to a scholarly journal which is currently 
 tags:
   - ai
   - cv
-date: 2022-07-01
+date: 2024-04-01
 external_link: https://github.com/MYY99/Projects/tree/main/AI%20related/FYP
 ---

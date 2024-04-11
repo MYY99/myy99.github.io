@@ -115,3 +115,9 @@ ul.network-icon .big-icon {
 .wg-about .portrait-title h3 {
   font-size: 0.8rem;
 }
+
+// 2 cards in a row
+.project-card {
+  position: relative;
+  width: calc(50% - 10px);
+}
