@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Mah Yuen Yee :)
+title: Mah Yuen Yee
 
 # Is this the primary user of the site?
 superuser: true

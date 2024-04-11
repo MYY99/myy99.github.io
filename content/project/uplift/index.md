@@ -5,5 +5,5 @@ tags:
   - ai
   - business-intelligence
 date: 2024-04-01
-external_link: https://github.com/MYY99/Projects/tree/main
+external_link: https://github.com/MYY99/Projects/tree/main/AI/Marketing%20Event%20Uplift%20Modelling
 ---
