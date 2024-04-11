@@ -68,7 +68,10 @@ social:
 
 A motivated and resourceful Research Engineer with professional experience in machine learning applications
 and data pipeline development, with a track record of projects from computer vision to time series analysis.
+
 Graduated with a perfect 4.0 CGPA from Monash University Malaysia in Electrical and Computer Systems
-Engineering. Passionate about Artificial Intelligence, I am seeking a junior role within the field.
+Engineering. 
+
+Passionate about Artificial Intelligence, I am seeking a junior role within the field.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.

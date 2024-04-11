@@ -28,12 +28,14 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
-      tag: ML
+    - name: AI/ Machine Learning/ Deep Learning
+      tag: ai
     - name: Computer Vision
-      tag: CV
-    - name: NLP
-      tag: NLP
+      tag: cv
+    - name: Embedded Software
+      tag: embedded-software
+    - name: Solid State Lighting
+      tag: solid-state-lighting
 
 design:
   columns: '1'
